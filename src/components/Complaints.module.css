@@ -1,0 +1,16 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    width: fit-content;
+    padding: 10px;
+    gap: 5px;
+}
+.form_group{
+    display: flex;
+  
+    overflow-x: hidden;
+    width: fit-content;
+    padding: 10px;
+    gap: 5px;
+}
